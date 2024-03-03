@@ -5,11 +5,11 @@ while (i < 2) {
     i++;
 }
 
-for(let i__1 = 2; i__1 <= 5; i__1++) {
+for(let i__1 = 1; i__1 <= 5; i__1++) {
     console.log(i__1);
 }
 
-let i__2 = 2;
+let i__2 = 7;
 while (i__2 <= 22) {
 console.log(i__2);    
 }
