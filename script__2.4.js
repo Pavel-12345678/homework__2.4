@@ -11,7 +11,8 @@ for(let i__1 = 1; i__1 <= 5; i__1++) {
 
 let i__2 = 7;
 while (i__2 <= 22) {
-console.log(i__2);    
+    console.log(i__2);
+    i++;    
 }
 
 let obj = {
